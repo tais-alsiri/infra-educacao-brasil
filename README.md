@@ -1,5 +1,7 @@
 # Análise da Infraestrutura Escolar no Brasil (Censo Escolar 2024)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tais-alsiri/infra-educacao-brasil/blob/main/infra_edu.ipynb)
+
 Este repositório contém um projeto de análise de dados realizado com base nos microdados do **Censo Escolar 2024 (INEP)**, com o objetivo de explorar e visualizar a infraestrutura das escolas brasileiras.
 
 ## Objetivo

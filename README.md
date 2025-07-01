@@ -46,6 +46,8 @@ Se preferir baixar manualmente, os dados podem ser obtidos diretamente no site o
 
 ## Como executar
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+### Via Google Colab
+
+1. Clique em **"Open in Colab"**, localizado no início deste README.
+2. Execute todas as células — o dataset será baixado automaticamente.
+3. Todos os gráficos e análises serão gerados sem erros.

@@ -19,6 +19,15 @@ O foco está em responder questões como:
 - `microdados_ed_basica_2024.csv`: Arquivo original de dados (Censo Escolar).
 - `README.md`: Este arquivo de apresentação do projeto.
 
+## Sobre os dados
+
+Devido ao tamanho do arquivo original do Censo Escolar 2024 (INEP), ele não está incluído diretamente neste repositório.
+
+Contudo, o notebook está configurado para **baixar automaticamente o dataset original** do Google Drive utilizando a biblioteca `gdown`. Isso garante a reprodutibilidade da análise sem exigir upload manual por parte do usuário.
+
+Se preferir baixar manualmente, os dados podem ser obtidos diretamente no site oficial do INEP:
+🔗 https://inep.gov.br/microdados
+
 ## Bibliotecas utilizadas
 
 - `Pandas`

@@ -32,7 +32,8 @@ Se preferir baixar manualmente, os dados podem ser obtidos diretamente no site o
 - `Pandas`
 - `Matplotlib`
 - `Seaborn`
-- `PyWaffle` (opcional, para visualizações específicas)
+- `Numpy`
+- `Gdown`
 
 ## Destaques da análise
 

@@ -25,8 +25,7 @@ Devido ao tamanho do arquivo original do Censo Escolar 2024 (INEP), ele não est
 
 Contudo, o notebook está configurado para **baixar automaticamente o dataset original** do Google Drive utilizando a biblioteca `gdown`. Isso garante a reprodutibilidade da análise sem exigir upload manual por parte do usuário.
 
-Se preferir baixar manualmente, os dados podem ser obtidos diretamente no site oficial do INEP:
-🔗 https://inep.gov.br/microdados
+Se preferir baixar manualmente, os dados podem ser obtidos diretamente no site oficial do INEP.
 
 ## Bibliotecas utilizadas
 

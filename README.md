@@ -51,3 +51,24 @@ Se preferir baixar manualmente, os dados podem ser obtidos diretamente no site o
 1. Clique em **"Open in Colab"**, localizado no início deste README.
 2. Execute todas as células — o dataset será baixado automaticamente.
 3. Todos os gráficos e análises serão gerados sem erros.
+
+## Dashboard (Looker Studio)
+
+Além da análise feita em Python, os dados foram utilizados para criar um **dashboard** no **Looker Studio**, com foco visual e exploratório.
+
+Esse painel permite navegar pelos indicadores por estado, acessar rankings de infraestrutura e obter uma visão geral da situação educacional do país.
+
+### 🔗 [Acesse o dashboard interativo aqui](https://lookerstudio.google.com/reporting/0c53cf4f-1859-4377-baf7-0e0dfbc87ac7)
+
+---
+
+## 📎 Fonte dos dados
+
+> **Fonte**: [Censo Escolar 2024 – INEP](https://www.gov.br/inep)  
+> Dados públicos de acesso livre, com fins de pesquisa, análise e visualização.
+
+---
+
+## 👩‍💻 Autoria
+
+Este projeto foi desenvolvido por **Taís Ribeiro** como parte de sua trajetória de aprendizado em **Ciência de Dados**.
